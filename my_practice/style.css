@@ -53,4 +53,7 @@
         margin-left: 4rem;
         font-weight: 700;
  } 
- 
+ .nav-bar a:hover,
+ .nav-bar a.active {
+       color: var(--text-color);
+ }
