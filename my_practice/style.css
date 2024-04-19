@@ -146,6 +146,12 @@
   background: var(--snd-bg-color);
 }
 
-.about-img {
-       
+.about-img img{
+   width: 35vw;
 }
+
+.heading{
+       text-align: center;
+       font-size: 4.5rem;
+}
+
