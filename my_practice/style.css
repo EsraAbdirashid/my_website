@@ -87,7 +87,7 @@
        animation: floatImage 4s ease-in-out infinite;
  }
  
- /* @keyframes floatImage {
+ @keyframes floatImage {
        0%{
               transform: translateY(0);
        }
@@ -97,7 +97,7 @@
        100% {
               transform: translateY(0);
        }
- } */
+ }
  /* .home-content p{
        font-size: 1.6rem
  }
