@@ -261,5 +261,6 @@
 }
 
 .portfolio-box :hover .portfolio-layer {
-       
+       transform: translateY(0);
 }
+
