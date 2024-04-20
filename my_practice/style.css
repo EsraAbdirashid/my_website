@@ -282,3 +282,8 @@
        background: var(--text-color);
        border-radius: 50%;
 }
+
+.portfolio-layer a i {
+       font-size: 2rem;
+       color: var(--snd-bg-color);
+}
