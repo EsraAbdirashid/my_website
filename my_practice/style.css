@@ -218,3 +218,7 @@
        margin-bottom: 4rem;
 }
 
+.portfolio-container {
+       display: grid;
+       
+}
