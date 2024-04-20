@@ -277,4 +277,8 @@
        display: inline-flex;
        justify-content: center;
        align-items: center;
+       width: 5rem;
+       height: 5rem;
+       background: var(--text-color);
+       border-radius: 50%;
 }
