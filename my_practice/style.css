@@ -211,5 +211,6 @@
 }
 
 .portfolio {
-       
+       background: var(--snd-bg-color);
 }
+
