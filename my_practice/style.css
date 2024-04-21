@@ -361,3 +361,16 @@ margin-bottom: 3rem;
        color: var(--snd-bg-color);
 }
 
+
+@media (max-width: 991px){
+       .header{
+              padding: 2rem 3%;
+       }
+
+       section {
+              padding: 10rem 3%;
+       }
+       .services {
+       padding: 7rem;
+       }
+}
