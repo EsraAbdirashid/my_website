@@ -16,6 +16,8 @@ let naclinks = document.querySelectorAll('header nav a');
 window.onscroll = () =>{
         sections.forEach(sec =>{
                 let top = window.screenY;
+                let offset = sec.offsetTop - 150;
                 
+
         })
 }
