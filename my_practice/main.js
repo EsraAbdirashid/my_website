@@ -17,7 +17,8 @@ window.onscroll = () =>{
         sections.forEach(sec =>{
                 let top = window.screenY;
                 let offset = sec.offsetTop - 150;
-                
+                let height = sec.offsetHeight;
+                let id = sec.getAttribute('id');
 
         })
 }
