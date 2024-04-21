@@ -288,3 +288,8 @@
        font-size: 2rem;
        color: var(--snd-bg-color);
 }
+
+.contact h2 {
+margin-bottom: 3rem;
+}
+
