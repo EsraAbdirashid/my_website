@@ -338,3 +338,7 @@ margin-bottom: 3rem;
        background: var(--snd-bg-color);
 }
 
+.footer-text {
+       font-size: 1.6rem;
+}
+
