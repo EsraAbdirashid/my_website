@@ -233,3 +233,8 @@
        display: flex;
 }
 
+.portfolio-box img {
+       width: 100%;
+       transition: .5s ease;
+       opacity: 0.7;
+}
