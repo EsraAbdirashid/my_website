@@ -23,6 +23,8 @@ window.onscroll = () =>{
                 if(top >= offset && top < offset + height){
                         naclinks.forEach.apply(links => {
                                 links.classList.remove('active');
+
+                                document.querySelector('header nav a[href*=' + id + ']')
                         })
                 }
 
