@@ -9,3 +9,5 @@ menuIcon.onclick = ()=>{
 }
 
 /*-----------------------scroll section active link------------------------------------- */
+
+let section = document.querySelectorAll('section');
