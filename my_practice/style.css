@@ -451,3 +451,9 @@ margin-bottom: 3rem;
               width: 100%;
        }
 }
+
+.nav-bar {
+       position: absolute;
+       top: 100%;
+       left: 0;
+}
