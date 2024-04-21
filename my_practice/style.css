@@ -447,4 +447,7 @@ margin-bottom: 3rem;
        html {
               font-size: 50%;
        }
+       .contact form .input-box input {
+              width: 100%;
+       }
 }
