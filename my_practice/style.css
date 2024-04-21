@@ -379,4 +379,7 @@ margin-bottom: 3rem;
        .contact {
               min-height: auto;
        }
+       .footer {
+              padding: 2rem 3%;
+       }
 }
