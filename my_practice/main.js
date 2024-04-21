@@ -20,7 +20,11 @@ window.onscroll = () =>{
                 let height = sec.offsetHeight;
                 let id = sec.getAttribute('id');
 
-                if(top >= offset && top < offset + height)
+                if(top >= offset && top < offset + height){
+                        naclinks.forEach.apply(links => {
+                                links.classList.remove('active');
+                        })
+                }
 
         })
 }
