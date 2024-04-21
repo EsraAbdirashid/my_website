@@ -10,5 +10,12 @@ menuIcon.onclick = ()=>{
 
 /*-----------------------scroll section active link------------------------------------- */
 
-let section = document.querySelectorAll('section');
+let sections = document.querySelectorAll('section');
 let naclinks = document.querySelectorAll('header nav a');
+
+window.onscroll = () =>{
+        sections.forEach(sec =>{
+                let top = window.screenY;
+                
+        })
+}
