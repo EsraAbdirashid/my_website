@@ -36,4 +36,5 @@ window.onscroll = () =>{
 
   /*-----------------------remove toggle icon and navbar------------------------------------- */
   menuIcon.classList.remove('fa-xmark');
+  navbar.classList.remove('active');
 }
