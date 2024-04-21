@@ -373,4 +373,10 @@ margin-bottom: 3rem;
        .services {
        padding: 7rem;
        }
+       .portfolio {
+              padding-bottom: 7rem;
+       }
+       .contact {
+              min-height: auto;
+       }
 }
