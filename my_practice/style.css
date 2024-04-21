@@ -391,4 +391,34 @@ margin-bottom: 3rem;
        .home{
               flex-direction: column;
        }
-}
+
+       .home-content h1{
+              font-size: 5rem;
+       }
+
+       .home-img img {
+              width: 90vw;
+              margin-top: 4rem;
+       }
+
+       .about {
+              flex-direction: column;
+       }
+
+       .about-img img {
+              width: 90vw;
+              margin-top: 4rem;
+       }
+
+       .services h2 {
+              margin-bottom: 3rem;
+       }
+
+       /* .portfolio h2 {
+              margin-bottom: 3rem;
+       }
+
+       .portfolio-container {
+              grid-template-columns: repeat(2, 1fr);
+       }
+} */
