@@ -342,3 +342,12 @@ margin-bottom: 3rem;
        font-size: 1.6rem;
 }
 
+.footer-iconTop {
+       display: inline-flex;
+       justify-content: center;
+       align-items: center;
+       padding: .8rem 1rem;
+       background: var(--main-color);
+       border-radius: .8rem;
+       transition: .5s ease;
+}
