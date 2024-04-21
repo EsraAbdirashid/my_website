@@ -314,4 +314,6 @@ margin-bottom: 3rem;
        color: var(--text-color);
        background: var(--snd-bg-color);
        border-radius: .8rem;
+       margin: .7rem 0;
 }
+
