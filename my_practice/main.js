@@ -24,7 +24,7 @@ window.onscroll = () =>{
                         naclinks.forEach.apply(links => {
                                 links.classList.remove('active');
 
-                                document.querySelector('header nav a[href*=' + id + ']')
+                                document.querySelector('header nav a[href*=' + id + ']').classList.add('active');
                         })
                 }
 
