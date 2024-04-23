@@ -29,9 +29,9 @@ window.onscroll = () =>{
 
         });
 
-        /*-----------------------sticky navbar------------------------------------- */
-            let header = document.querySelector('header');
-            header.classList.toggle('sticky', window.scrollY > 100);
+        // /*-----------------------sticky navbar------------------------------------- */
+        //     let header = document.querySelector('header');
+        //     header.classList.toggle('sticky', window.scrollY > 100);
 
   /*-----------------------remove toggle icon and navbar------------------------------------- */
   menuIcon.classList.remove('fa-xmark');
