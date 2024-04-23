@@ -361,6 +361,12 @@ margin-bottom: 3rem;
        color: var(--snd-bg-color);
 }
 
+@media (max-width: 1200px) {
+       html {
+              font-size: 55%;
+       }
+}
+
 
 /* @media (max-width: 991px){
        .header{
