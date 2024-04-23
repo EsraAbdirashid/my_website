@@ -454,7 +454,7 @@ margin-bottom: 3rem;
        }
 }
 
-@media (max-width: 450px){
+@media (max-width: 450px) {
        html {
               font-size: 50%;
        }
