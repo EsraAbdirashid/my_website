@@ -368,7 +368,7 @@ margin-bottom: 3rem;
 }
 
 
-/* @media (max-width: 991px){
+@media (max-width: 991px){
        .header{
               padding: 2rem 3%;
        }
@@ -456,7 +456,7 @@ margin-bottom: 3rem;
        .contact form .input-box input {
               width: 100%;
        }
-} */
+}
 
 .nav-bar {
        position: absolute;
